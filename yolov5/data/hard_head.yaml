@@ -1,0 +1,7 @@
+names:
+- helmet
+- head
+- person
+nc: '3'
+train: /content/yolov5/Dataset/images/train
+val: /content/yolov5/Dataset/images/val
